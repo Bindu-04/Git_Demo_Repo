@@ -10,3 +10,5 @@ Commit
 Branch
 Merge
 Conflict
+
+Git uses snapshots to track changes.
