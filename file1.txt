@@ -1,0 +1,10 @@
+File 1 - Git Demo
+
+This file is used to demonstrate the lifecycle of a file in Git.
+
+States of a file in Git:
+Untracked
+Tracked
+Modified
+Staged
+Committed

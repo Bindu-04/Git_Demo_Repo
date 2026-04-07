@@ -1,0 +1,12 @@
+Git Notes
+
+Git is a distributed version control system.
+
+It allows multiple developers to collaborate on the same project.
+
+Important Git concepts:
+Repository
+Commit
+Branch
+Merge
+Conflict

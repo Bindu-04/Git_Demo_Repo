@@ -1,0 +1,3 @@
+This file will be used to demonstrate merge conflicts in Git.
+
+Initial version of the file.

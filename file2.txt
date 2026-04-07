@@ -1,0 +1,11 @@
+File 2 - Git Commands
+
+Common Git Commands:
+
+git status
+git add
+git commit
+git push
+git pull
+git branch
+git merge
